@@ -57,3 +57,4 @@ p boat2
 p boat1.name
 boat2.color = "red"
 p boat2.color
+p "Katherine is Awesome"
